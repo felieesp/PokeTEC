@@ -1,0 +1,40 @@
+Traceback (most recent call last):
+  File "/home/claude/poke-tec/poketec/ui/app.py", line 115, in _safe
+    fn(*args)
+    ~~^^^^^^^
+  File "/home/claude/poke-tec/tests/test_ui.py", line 422, in draw
+    raise RuntimeError("fallo de prueba")
+RuntimeError: fallo de prueba
+
+Traceback (most recent call last):
+  File "/home/claude/poke-tec/poketec/ui/app.py", line 115, in _safe
+    fn(*args)
+    ~~^^^^^^^
+  File "/home/claude/poke-tec/tests/test_ui.py", line 422, in draw
+    raise RuntimeError("fallo de prueba")
+RuntimeError: fallo de prueba
+
+Traceback (most recent call last):
+  File "/home/claude/poke-tec/poketec/ui/app.py", line 115, in _safe
+    fn(*args)
+    ~~^^^^^^^
+  File "/home/claude/poke-tec/tests/test_ui.py", line 422, in draw
+    raise RuntimeError("fallo de prueba")
+RuntimeError: fallo de prueba
+
+Traceback (most recent call last):
+  File "/home/claude/poke-tec/poketec/ui/app.py", line 115, in _safe
+    fn(*args)
+    ~~^^^^^^^
+  File "/home/claude/poke-tec/tests/test_ui.py", line 424, in draw
+    raise RuntimeError("fallo de prueba")
+RuntimeError: fallo de prueba
+
+Traceback (most recent call last):
+  File "/home/claude/poke-tec/poketec/ui/app.py", line 115, in _safe
+    fn(*args)
+    ~~^^^^^^^
+  File "/home/claude/poke-tec/tests/test_ui.py", line 430, in draw
+    raise RuntimeError("fallo de prueba")
+RuntimeError: fallo de prueba
+
